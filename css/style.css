@@ -1,0 +1,257 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background: white;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}
+li{
+    float: left;
+    font-size: 50px;
+}
+p{
+    background-color: darkgoldenrod;
+    background-image: image(cyan);
+}
+li,a{
+    padding: 10px;
+    color:firebrick;
+    background-color: black;
+}
+li,a:hover{
+    background: aqua;
+    color: grey;
+
+}
+
+th,td {
+    border: 4px dotted green;
+    padding: 30px;
+    margin: 30px;
+    font-family: Ani;
+    font-size: 35px;
+}
+table{
+    border-collapse: ;
+    width: 100%;
+    background-color: cornflowerblue;
+    text-shadow: black;
+    fo
+
+}
+.fruits{
+    border: 2px solid blue;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border: 2px solid yellow;
+    background-color: deepskyblue;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+
+}
+.Vegetables{
+    border:2px solid grey;
+    background-color: cornflowerblue;
+    color: darkslategray;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.FRUITS{
+    border:2px solid darkgoldenrod;
+    background-color:moccasin;
+    color: gold;
+    padding: 20px;
+    margin: 20px;
+    text-align:center;
+}
+#school{
+    border:2px
+;
+}
+
+label{
+    color: darkslategray;
+    background-color: cyan;
+
+
+}
+input{
+    color:black;
+    font-family:"URW Bookman";
+    padding: 10px;
+    margin: 2px;
+    border-spacing: 40px;
+    background-color: cyan;
+    border: black;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
